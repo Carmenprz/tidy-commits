@@ -1,0 +1,23 @@
+{
+  "name": "tidy-commits",
+  "description": "hell no!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carmenprz/tidy-commits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carmenprz/tidy-commits/issues"
+  },
+  "homepage": "https://github.com/Carmenprz/tidy-commits#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "webpack": "^5.74.0"
+  }
+}
